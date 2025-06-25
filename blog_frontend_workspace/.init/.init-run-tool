@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/staticbloglite-71615-3d18eca3/blog_frontend_workspace/blog_frontend"
+}
